@@ -131,9 +131,9 @@ Tweet objects from `--json` include:
 
 When cookies expire, get fresh ones manually:
 
-1. Open Safari → x.com (logged in)
-2. Develop → Show Web Inspector (or ⌥⌘I)
-3. Storage tab → Cookies → x.com
+1. Open Chrome → x.com (logged in)
+2. Open DevTools (F12 or ⌘⌥I)
+3. Application tab → Cookies → https://x.com
 4. Copy values for `auth_token` and `ct0`
 5. Update `~/.claude/skills/twitter/.env`:
    ```
