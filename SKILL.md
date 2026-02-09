@@ -148,7 +148,3 @@ When cookies expire, get fresh ones manually:
 **Query ID errors:** Run `source ~/.claude/skills/twitter/.env && bird query-ids --fresh` to refresh GraphQL query IDs.
 
 **Rate limiting:** X may rate limit requests. Wait and retry.
-
-## Update check
-
-This skill is managed by [skills.sh](https://skills.sh). To check for updates, run `npx skills update`.
