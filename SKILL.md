@@ -1,6 +1,6 @@
 ---
 name: twitter
-description: Read tweets, threads, or user timelines using bird CLI. Triggers: "read tweet", "get tweet", "fetch tweet", "read thread", "user's tweets", "tweets from @handle", "save tweets".
+description: 'Read tweets, threads, or user timelines using bird CLI. Triggers: "read tweet", "get tweet", "fetch tweet", "read thread", "user''s tweets", "tweets from @handle", "save tweets".'
 ---
 
 # Twitter skill
